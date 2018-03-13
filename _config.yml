@@ -1,9 +1,9 @@
 theme: jekyll-theme-hacker
 
 ---
-title:Home
+title: home
 
-layout:Hacker
+layout: hacker
 ---
 
 
